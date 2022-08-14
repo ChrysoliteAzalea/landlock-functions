@@ -1,3 +1,5 @@
+# Warning! This repository will be read-only. It's recommended to use the [libtinyLL](https://github.com/ChrysoliteAzalea/libtinyLL) instead of these functions.
+
 These files contain wrappers for Landlock-related syscalls and functions that populate the Landlock ruleset.
 
 # ll_wrapper.c
